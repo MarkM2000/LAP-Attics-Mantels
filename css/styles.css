@@ -13,22 +13,26 @@ body {
 header,
 section,
 footer {
+    font-family: 'Space Grotesk';
     width: 80%;
     margin: 10px auto;
 }
 
 h1 {
+    font-family: 'Space Grotesk';
     font-size: 2.5em;
     letter-spacing: .04em;
 }
 
 h2 {
+    font-family: 'Space Grotesk';
     font-style: normal;
     font-size: 2em;
     letter-spacing: .04em;
 }
 
 #map {
+    font-family: 'Space Grotesk';
     width: 800px;
     height: 500px;
     margin: 10px auto;
@@ -53,17 +57,20 @@ h2 {
 }
 
 .info h4 {
+    font-family: 'Space Grotesk';
     margin: 0 0 5px;
     color: #777;
 }
 
 .legend {
+    font-family: 'Space Grotesk';
     text-align: left;
     line-height: 18px;
     color: #555;
 }
 
 .legend i {
+    font-family: 'Space Grotesk';
     width: 18px;
     height: 18px;
     float: left;
@@ -78,5 +85,6 @@ h2 {
 
 h3,
 h5 {
+    font-family: 'Space Grotesk';
     margin: 0;
 }
