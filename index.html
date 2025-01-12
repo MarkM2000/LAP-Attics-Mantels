@@ -31,6 +31,18 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
+            // Add footer date
+            setDate()
+
+// set global variables for header, map container, and footer
+const header = document.querySelector("header");
+const mapContainer = document.querySelector("#map");
+const footer = document.querySelector("footer");
+
+// set map height to fill window
+mapContainer.style.height =
+    window.innerHeight - header.offsetHeight - footer.offsetHeight + "px";
+
     var map = L.map('map', {
         zoomSnap: .1,
         center: [36, -90],
@@ -41,6 +53,15 @@
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
+
+          // Example of keeping your page fresh
+        function setDate() {
+            const date = new Date();
+            const year = date.getFullYear();
+            const month = date.toLocaleString('default', { month: 'long' });
+            const footerText = document.querySelector("footer p");
+            footerText.innerHTML = `${month}, ${year} | New Maps Plus`;
+        }
 </script>
 
 </html>
