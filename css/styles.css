@@ -45,7 +45,7 @@ h2 {
 
 .info {
     padding: 6px 8px;
-    font-family: 'PT Serif', serif;
+    font-family: 'Space Grotesk';
     background: white;
     background: rgba(255, 255, 255, 0.8);
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -72,7 +72,7 @@ h2 {
 }
 
 #tooltip {
-    font-family: 'PT Serif', serif;
+    font-family: 'Space Grotesk';
     color: #454545;
 }
 
