@@ -14,9 +14,9 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;700&display=swap" rel="stylesheet" />
     <!-- Styles CSS -->
-    <link href="css/styles.css" rel="stylesheet" />
+    <link href="/css/styles.css" rel="stylesheet" />
     <!-- Dropdown CSS -->
-    <link href="css/dropdown.css" rel="stylesheet" />
+    <link href="/css/dropdown.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -75,9 +75,13 @@
     <!-- ui is outside of container-fluid and will be dynamically added to map -->
     <div class="form-group me-3 mt-3" id="dropdown-ui">
         <select class="form-control bg-primary text-white">
-            <option value="Attic">Attic total</option>
-            <option value="Garrett">Garrett total</option>
-            <option value="Loft">Loft total</option>
+            <option value="Mantel">Loft total</option>
+            <option value="Mantelpiece">Attic total</option>
+            <option value="Mantelshelf">Garrett total</option>
+            <option value="Mantelboards">Loft total</option>
+            <option value="Fireboards">Loft total</option>
+            <option value="Clock_shelf">Loft total</option>
+            <option value="Shelf">Loft total</option>
         </select>
     </div>
     <!-- end ui-controls -->
@@ -142,7 +146,7 @@
         const normValue = "Informants";
 
         // Make the call to external data
-        fetch("geojson/LAPMantel.geojson")
+        fetch("/geojson/LAPMantel.geojson")
             .then(function (response) {
                 if (response.ok) {
                     return response.json();
