@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>LAP-Attics-Mantels Choropleth Map</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;700&display=swap" rel="stylesheet" />
+    <!-- Styles CSS -->
+    <link href="css/styles.css" rel="stylesheet" />
+    <!-- Dropdown CSS -->
+    <link href="css/dropdown.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container-fluid">
+        <header class="row bg-dark text-white p-2">
+            <div class="col-8">
+                <h1>LAP-Attics-Mantels Choropleth Map</h1>
+            </div>
+            <div class="col-4 align-self-center">
+                <p class="d-flex justify-content-end my-auto">
+                    <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
+                        aria-controls="offcanvasExample">
+                        Information
+                    </a>
+                </p>
+            </div>
+        </header>
+
+        <section class="row">
+            <div class="p-0">
+                <div id="map"></div>
+            </div>
+        </section>
+
+        <footer class="row bg-dark text-white p-2">
+            <p class="text-center"></p>
+        </footer>
+    </div>
+
+    <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="offcanvasExample"
+        aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasExampleLabel">Map Info</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <h3 class="py-2">Information</h3>
+            <p>This choropleth maps consists of attics, garrets, and lofts.</p>
+            <h2>Definitions</h2>
+            <ul class="list-unstyled">
+                <li>Attic: a room or area directly beneath a building's roof.</li>
+                <li>Garrett: an attic or top floor room, particularly a tiny, dreary one (usually where an artist lives).</li>
+                <li>Loft: a raised space or upper story in a building, frequently featuring high ceilings and open areas.</li>
+            </ul>
+            <h3>Sources</h3>
+            <ul class="list-unstyled">
+                <li>Authored by Mark Marji</li>
+                <li>January 7, 2025</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- legend is outside of container-fluid and will be dynamically added to map -->
+    <div class="legend d-flex flex-column px-3 py-2" id="legend"></div>
+
+    <!-- ui is outside of container-fluid and will be dynamically added to map -->
+    <div class="form-group me-3 mt-3" id="dropdown-ui">
+        <select class="form-control bg-primary text-white">
+            <option value="Attic">Attic total</option>
+            <option value="Garrett">Garrett total</option>
+            <option value="Loft">Loft total</option>
+        </select>
+    </div>
+    <!-- end ui-controls -->
+
+    <!-- Add Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <!-- then Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <!-- then Simple Statistics -->
+    <script src="https://unpkg.com/simple-statistics@7.8.3/dist/simple-statistics.min.js"></script>
+    <script>
+        // Add footer date
+        setDate()
+
+        // set global variables for header, map container, and footer
+        const header = document.querySelector("header");
+        const mapContainer = document.querySelector("#map");
+        const footer = document.querySelector("footer");
+
+        // set map height to fill window
+        mapContainer.style.height =
+            window.innerHeight - header.offsetHeight - footer.offsetHeight + "px";
+
+        // initial Leaflet map options
+        const options = {
+            center: [37.09024, -95.7],
+            zoom: 7.4,
+            zoomSnap: 0.1,
+            zoomControl: false,
+            attributionControl: false,
+        };
+
+        // create Leaflet map and apply options
+        const map = L.map("map", options);
+
+        var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        // Example of keeping your page fresh
+        function setDate() {
+            const date = new Date();
+            const year = date.getFullYear();
+            const month = date.toLocaleString('default', { month: 'long' });
+            const footerText = document.querySelector("footer p");
+            footerText.innerHTML = `${month}, ${year} | New Maps Plus`;
+        }
+
+        const labels = {
+            Attic: "Attic total",
+            Garrett: "Garrett total",
+            Loft: "Loft total",
+        }
+
+        // set global variables for map layer,
+        // mapped attribute, and normalizing attribute
+        let attributeValue = "Mantel";
+        const normValue = "Informants";
+
+        // Make the call to external data
+        fetch("geojson/LAPMantel.geojson")
+            .then(function (response) {
+                if (response.ok) {
+                    return response.json();
+                } else {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+            })
+            .then(function (data) {
+                drawMap(data);
+                addLegend();
+            });
+
+
+        function drawMap(data) {
+            // create Leaflet data layer and add to map
+            const STUSPS = L.geoJson(data, {
+                // style STUSPS with initial default path options
+                style: function (feature) {
+                    return {
+                        color: "#16171c",
+                        weight: 0.7,
+                        fillOpacity: 1,
+                        fillColor: "#16171c",
+                    };
+                },
+                // add hover/touch functionality to each feature layer
+                onEachFeature: function (feature, layer) {
+                    // when mousing over a layer
+                    layer.on("mouseover", function () {
+                        // change the stroke color and bring that element to the front
+                        layer
+                            .setStyle({
+                                color: "#ff6e00",
+                            })
+                            .bringToFront();
+                    });
+
+                    // on mousing off layer
+                    layer.on("mouseout", function () {
+                        // reset the layer style to its original stroke color
+                        layer.setStyle({
+                            color: "#16171c",
+                        });
+                    });
+                },
+            }).addTo(map);
+
+            // fit the map's bounds and zoom level using the STUSPS extent
+            map.fitBounds(STUSPS.getBounds(), {
+                padding: [18, 18], // add padding around STUSPS
+                animate: false, // disable animating the zoom
+            });
+
+            // addLegend(); // add the legend to the map
+            updateMap(STUSPS); // draw the map
+            addUi(STUSPS); // add UI controls
+        }
+
+        function updateMap(STUSPS) {
+            let breaks = getClassBreaks(STUSPS);
+
+            // loop through each county layer to update the color and tooltip info
+            STUSPS.eachLayer(function (layer) {
+                let props = layer.feature.properties;
+
+                // set the fill color of layer based on its normalized data value
+                layer.setStyle({
+                    fillColor: getColor(props[attributeValue], breaks),
+                });
+
+                // assemble string sequence of info for tooltip (end line break with + operator)
+                let tooltipInfo = `<b>${props["NAME"]}</b></br>
+${((props[attributeValue])).toLocaleString()}`;
+
+                // bind a tooltip to layer with county-specific information
+                layer.bindTooltip(tooltipInfo, {
+                    // sticky property so tooltip follows the mouse
+                    sticky: true,
+                });
+            })
+
+            // update the legend with the current data attribute information
+            updateLegend(breaks);
+        }
+
+        // Get class breaks in data
+        function getClassBreaks(STUSPS) {
+            // create empty Array for storing values
+            const values = [];
+
+            // loop through all the STUSPS
+            STUSPS.eachLayer(function (layer) {
+                let value =
+                    layer.feature.properties[attributeValue]
+                values.push(value); // push the normalized value for each layer into the Array
+            });
+
+            // determine similar clusters
+            const clusters = ss.ckmeans(values, 5);
+
+            // create an array of the lowest value within each cluster
+            const breaks = clusters.map(function (cluster) {
+                return [cluster[0], cluster.pop()];
+            });
+
+            //return array of arrays, e.g., [[0.24,0.25], [0.26, 0.37], etc]
+            return breaks;
+        }
+
+        // Get color
+        function getColor(d, breaks) {
+            // function accepts a single normalized data attribute value
+            // and uses a series of conditional statements to determine which
+            // which color value to return to return to the function caller
+
+            if (d <= breaks[0][0]) {
+                return "#FFFFFF";
+            } else if (d <= breaks[0][1]) {
+                return "#dfecf7";
+            } else if (d <= breaks[1][1]) {
+                return "#64a9d3";
+            } else if (d <= breaks[2][1]) {
+                return "#3383be";
+            } else if (d <= breaks[3][1]) {
+                return "#1279d9";
+            } else if (d <= breaks[4][1]) {
+                return "#08306b";
+            }
+        }
+
+        // Add legend to map
+        function addLegend(breaks) {
+            // check your console to verify the breaks array
+            console.log(breaks);
+
+            // create a new Leaflet control object, and position it top left
+            const legendControl = L.control({ position: "topleft" });
+
+            // when the legend is added to the map
+            legendControl.onAdd = function () {
+                // select a div element with an id attribute of legend
+                const legend = L.DomUtil.get("legend");
+
+                // disable scroll and click/touch on map when on legend
+                L.DomEvent.disableScrollPropagation(legend);
+                L.DomEvent.disableClickPropagation(legend);
+
+                // return the selection to the method
+                return legend;
+            };
+
+            // add the empty legend div to the map
+            legendControl.addTo(map);
+        }
+
+        function updateLegend(breaks) {
+            // function accepts an array of classification breaks values as
+            // a parameter and draws/updates the legend based upon these values
+            // select the legend, add a title, begin an unordered list and assign to a variable
+            // select the legend, add a title, begin an unordered list and assign to a variable
+            const legend = document.querySelector("#legend")
+            legend.innerHTML = `<h5>${labels[attributeValue]}</h5>`;
+
+            // loop through the Array of classification break values
+            for (let i = 0; i <= breaks.length - 1; i++) {
+                let color = getColor(breaks[i][0], breaks);
+
+                legend.innerHTML +=
+                    `<div class="d-flex flex-row justify-content-start">
+      <span style="background:${color}"></span>
+      <label>${(breaks[i][0])} &mdash; 
+      ${(breaks[i][1])}</label>
+  </div>`
+            }
+        }
+
+        function addUi(STUSPS) {
+            // create the slider control
+            var selectControl = L.control({ position: "topright" });
+
+            // when control is added
+            selectControl.onAdd = function () {
+                // get the element with id attribute of ui-controls
+                return L.DomUtil.get("dropdown-ui");
+            };
+            // add the control to the map
+            selectControl.addTo(map);
+
+            const leg = document.querySelector("#dropdown-ui select")
+            console.log(leg);
+
+            leg.addEventListener("change", function (e) {
+                console.log(this);
+                console.log(e.target);
+
+                attributeValue = e.target.value;
+
+                // update the map
+                updateMap(STUSPS);
+
+            });
+        }
+
+        map.addControl(L.control.zoom({ position: "topright" }));
+    </script>
