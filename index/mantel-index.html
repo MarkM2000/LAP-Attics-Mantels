@@ -16,7 +16,7 @@
     <!-- Styles CSS -->
     <link href="/css/styles.css" rel="stylesheet" />
     <!-- TopNav CSS -->
-    <link href="/css/topnav.css" rel="stylesheet" />
+    <link href="css/topnav.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -154,7 +154,7 @@
         const normValue = "Informants";
 
         // Make the call to external data
-        fetch("..geojson/LAPMantel.geojson")
+        fetch("../geojson/LAPMantel.geojson")
             .then(function (response) {
                 if (response.ok) {
                     return response.json();
