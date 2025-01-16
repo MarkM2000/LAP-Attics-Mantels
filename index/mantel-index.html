@@ -148,7 +148,7 @@
         const normValue = "Informants";
 
         // Make the call to external data
-        fetch("/geojson/LAPMantel.geojson")
+        fetch("geojson/LAPMantel.geojson")
             .then(function (response) {
                 if (response.ok) {
                     return response.json();
