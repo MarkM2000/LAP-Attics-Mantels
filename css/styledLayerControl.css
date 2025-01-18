@@ -1,24 +1,7 @@
 @font-face {
-    font-family: BebasNeueRegular;
+    font-family: 'Space Grotesk';
     src: url(fonts/BebasNeue-webfont.woff);
 }
-
-@font-face {
-    font-family: Alegreya-Regular;
-    src: url(fonts/Alegreya-Regular.ttf);
-}
-
-@font-face {
-    font-family: Ubuntu-Medium;
-    src: url(fonts/Ubuntu-Medium.ttf);
-}
-
-@font-face {
-    font-family: Ubuntu-Regular;
-    src: url(fonts/Ubuntu-Regular.ttf);
-}
-
-
 
 .ac-container{
 	width: auto;
@@ -29,7 +12,7 @@
 }
 
 div[id^="leaflet-control-accordion-layers"] > label {
-	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'Space Grotesk';
 	padding: 5px 20px;
 	position: relative;
 	z-index: 20;
