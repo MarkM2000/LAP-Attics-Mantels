@@ -1,6 +1,5 @@
 // Adding variables for checkboxes 
-/// Attic
-var attic = L.geoJson(attic, {
+var loft = L.geoJson(attic, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
             color: '#1f78b4',
@@ -14,7 +13,7 @@ var attic = L.geoJson(attic, {
         const props = feature.properties
         const popup = `
                 <b>${props.informant}</b>
-                <br>Attic type: ${props.attic}<br>
+                <br>Attic type: ${props.loft}<br>
             `
         layer.bindTooltip(popup, {
             className: 'tool-informant'
