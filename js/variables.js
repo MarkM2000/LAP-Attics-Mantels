@@ -13,7 +13,7 @@ var loft = L.geoJson(loft, {
         const props = feature.properties
         const popup = `
                 <b>${props.informant}</b>
-                <br>Attic type: ${props.loft}<br>
+                <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
             className: 'tool-informant'
