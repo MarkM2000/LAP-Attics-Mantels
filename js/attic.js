@@ -53591,7 +53591,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53611,7 +53611,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53631,7 +53631,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53651,7 +53651,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53671,7 +53671,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53691,7 +53691,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53711,7 +53711,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53731,7 +53731,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53751,7 +53751,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Operator",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53771,7 +53771,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53791,7 +53791,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53811,7 +53811,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53831,7 +53831,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Professional & technical",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53851,7 +53851,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Public servant",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53871,7 +53871,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53891,7 +53891,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53911,7 +53911,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53931,7 +53931,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53951,7 +53951,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53971,7 +53971,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -53991,7 +53991,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54011,7 +54011,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Craftsman or foreman",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54031,7 +54031,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54051,7 +54051,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Craftsman or foreman",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54071,7 +54071,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54091,7 +54091,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54111,7 +54111,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54131,7 +54131,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Professional & technical",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54151,7 +54151,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54171,7 +54171,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54191,7 +54191,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Craftsman or foreman",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54211,7 +54211,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54231,7 +54231,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Service worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54251,7 +54251,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Sawmill worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54271,7 +54271,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54291,7 +54291,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54311,7 +54311,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54331,7 +54331,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Service worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54351,7 +54351,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Service worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54371,7 +54371,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Professional & technical",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54391,7 +54391,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Unknown",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54411,7 +54411,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54431,7 +54431,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Public servant",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54451,7 +54451,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Student",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54471,7 +54471,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Unknown",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54491,7 +54491,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54511,7 +54511,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54531,7 +54531,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54551,7 +54551,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Public servant",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54571,7 +54571,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54591,7 +54591,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54611,7 +54611,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54631,7 +54631,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54651,7 +54651,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54671,7 +54671,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54691,7 +54691,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Student",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54711,7 +54711,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54731,7 +54731,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Fisher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54751,7 +54751,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54771,7 +54771,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54791,7 +54791,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54811,7 +54811,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54831,7 +54831,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54851,7 +54851,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54871,7 +54871,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54891,7 +54891,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54911,7 +54911,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54931,7 +54931,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Professional & technical",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54951,7 +54951,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Professional & technical",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54971,7 +54971,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -54991,7 +54991,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55011,7 +55011,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55031,7 +55031,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55051,7 +55051,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55071,7 +55071,7 @@ var attic = {
         "ethnicity": "White",
         "education": "NoFormal education",
         "occupation": "Fisher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55091,7 +55091,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55111,7 +55111,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55131,7 +55131,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55151,7 +55151,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55171,7 +55171,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55191,7 +55191,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55211,7 +55211,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Unknown",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55231,7 +55231,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55251,7 +55251,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Student",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55271,7 +55271,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55291,7 +55291,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55311,7 +55311,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55331,7 +55331,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55351,7 +55351,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55371,7 +55371,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Public servant",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55391,7 +55391,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55411,7 +55411,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55431,7 +55431,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Student",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55451,7 +55451,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55471,7 +55471,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55491,7 +55491,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Fisher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55511,7 +55511,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55531,7 +55531,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55551,7 +55551,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55571,7 +55571,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55591,7 +55591,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55611,7 +55611,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55631,7 +55631,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55651,7 +55651,7 @@ var attic = {
         "ethnicity": "White",
         "education": "NoFormal education",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55671,7 +55671,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55691,7 +55691,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55711,7 +55711,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55731,7 +55731,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55751,7 +55751,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55771,7 +55771,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Professional & technical",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55791,7 +55791,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55811,7 +55811,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55831,7 +55831,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55851,7 +55851,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55871,7 +55871,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55891,7 +55891,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55911,7 +55911,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55931,7 +55931,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55951,7 +55951,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Unknown",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55971,7 +55971,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -55991,7 +55991,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "School bus driver",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56011,7 +56011,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56031,7 +56031,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56051,7 +56051,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56071,7 +56071,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56091,7 +56091,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56111,7 +56111,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56131,7 +56131,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56151,7 +56151,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56171,7 +56171,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56191,7 +56191,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56211,7 +56211,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56231,7 +56231,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56251,7 +56251,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56271,7 +56271,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56291,7 +56291,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56311,7 +56311,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Unknown",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56331,7 +56331,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Unknown",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56351,7 +56351,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56371,7 +56371,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Craftsman or foreman",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56391,7 +56391,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56411,7 +56411,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56431,7 +56431,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56451,7 +56451,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56471,7 +56471,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56491,7 +56491,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56511,7 +56511,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56531,7 +56531,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56551,7 +56551,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56571,7 +56571,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56591,7 +56591,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56611,7 +56611,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56631,7 +56631,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56651,7 +56651,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56671,7 +56671,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56691,7 +56691,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56711,7 +56711,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56731,7 +56731,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Service worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56751,7 +56751,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56771,7 +56771,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Service worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56791,7 +56791,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56811,7 +56811,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Unknown",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56831,7 +56831,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56851,7 +56851,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Craftsman or foreman",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56871,7 +56871,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56891,7 +56891,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56911,7 +56911,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56931,7 +56931,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56951,7 +56951,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56971,7 +56971,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -56991,7 +56991,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57011,7 +57011,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57031,7 +57031,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57051,7 +57051,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57071,7 +57071,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57091,7 +57091,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57111,7 +57111,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57131,7 +57131,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57151,7 +57151,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57171,7 +57171,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57191,7 +57191,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Service worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57211,7 +57211,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57231,7 +57231,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57251,7 +57251,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57271,7 +57271,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "NoFormal education",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57291,7 +57291,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57311,7 +57311,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Teacher",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57331,7 +57331,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57351,7 +57351,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Craftsman or foreman",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57371,7 +57371,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57391,7 +57391,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57411,7 +57411,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Operative",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57431,7 +57431,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57451,7 +57451,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57471,7 +57471,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57491,7 +57491,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57511,7 +57511,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57531,7 +57531,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57551,7 +57551,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57571,7 +57571,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57591,7 +57591,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Laborer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57611,7 +57611,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57631,7 +57631,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Illustrator",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57651,7 +57651,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57671,7 +57671,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Service worker",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57691,7 +57691,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Clerical or sales position",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57711,7 +57711,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "Between 1 and 8 years",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57731,7 +57731,7 @@ var attic = {
         "ethnicity": "White",
         "education": "Between 1 and 8 years",
         "occupation": "Craftsman or foreman",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57751,7 +57751,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Public servant",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57771,7 +57771,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some college or beyond",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57791,7 +57791,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57811,7 +57811,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "At least some high school",
         "occupation": "Keeping house",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57831,7 +57831,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some high school",
         "occupation": "Student",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57851,7 +57851,7 @@ var attic = {
         "ethnicity": "White",
         "education": "At least some college or beyond",
         "occupation": "Manager, official or proprietor",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
@@ -57871,7 +57871,7 @@ var attic = {
         "ethnicity": "Black or African American",
         "education": "No formal education",
         "occupation": "Farmer",
-        "attic_type": "loft "
+        "attic_type": "loft"
       },
       "geometry": {
         "type": "Point",
