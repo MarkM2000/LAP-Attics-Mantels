@@ -3330,10 +3330,10 @@ MA57,LANE,Male,42,White,At least some college or beyond,"Manager, official, or p
 MA58,LANE,Male,61,White,Unknown,Unknown,42.2439,-71.9928,NR
 MA59,LANE,Male,65,White,At least some high school,Service worker,42.2439,-71.9928,"attic, garret"
 MA61,LANE,Male,35-36,White,Unknown,Unknown,42.1583,-72.3292,NR
-MA70,LANE,Male,78,White,At least some high school,Farmer,42.1041,72.3194,"garret, attic"
+MA70,LANE,Male,78,White,At least some high school,Farmer,42.1041,72.3194 Ôªø,"garret, attic"
 MA72,LANE,Male,80,White,Between 1 and 8 years,Farmer,41.7,-70.3,"attic, sug. garret"
 MA73,LANE,Male,73,White,Between 1 and 8 years,Public servant,41.7,-70.3,"garret, loft, attic"
-MA74,LANE,Male,88,White,Between 1 and 8 years,Farmer,41.6861,-70.0763,"dark hole, attic"
+MA74,LANE,Male,88,White,Between 1 and 8 years,Farmer,Ôªø41.6861,-70.0763,"dark hole, attic"
 MA79,LANE,Male,66,White,Between 1 and 8 years,Farmer,42.5444,-72.6061,"attic, garret"
 MA80,LANE,Male,41,White,At least some high school,Farmer,42.673,-72.6972,"attic, garret"
 MA81,LANE,Male,60,White,No formal schooling,Farmer,42.1805,-72.9277,attic
@@ -3343,8 +3343,8 @@ MA90,LANE,Male,71,White,Between 1 and 8 years,Farmer,42.1124,-72.5475,garret
 MA91,LANE,Male,73,White,At least some high school,Farmer,42.2564,-72.5167,"attic, garret"
 MA93,LANE,Female,55,White,At least some high school,Keeping house,42.1124,-72.5475,attic
 MA94,LANE,Male,76,White,Between 1 and 8 years,Clerical or sales position,41.6819,-69.9603,"attic, garret, up garret"
-MA95,LANE,Male,80,White,Between 1 and 8 years,Farmer,41.83,69.9744,"eaves, attic, sug. attics"
-MA96,LANE,Male,48,White,At least some high school,Public servant,41.83,69.9744,"attic, the attic, up attic"
+MA95,LANE,Male,80,White,Between 1 and 8 years,Farmer,41.83,69.9744 Ôªø,"eaves, attic, sug. attics"
+MA96,LANE,Male,48,White,At least some high school,Public servant,41.83,69.9744 Ôªø,"attic, the attic, up attic"
 MA97,LANE,Male,60,White,At least some high school,Farmer,41.9933,-70.0502,"attic, roof chamber"
 MA102,LANE,Female,73,White,At least some high school,Other (see notes),42.1124,-72.5475,"attic, garret"
 MA104,LANE,Male,93,White,Between 1 and 8 years,Clerical or sales position,41.5514,-70.6153,"attic, the attic"
@@ -3403,7 +3403,7 @@ MA321,LANE,Male,84,White,At least some college or beyond,"Manager, official, or 
 MA322,LANE,Male,40,White,At least some high school,Craftsman or foreman,42.5619,-73.1633,attic
 MA325,LANE,Male,83,White,At least some high school,Clerical or sales position,42.0391,-71.6211,"store room, attic, garret"
 MA326,LANE,Female,74,White,At least some high school,Other (see notes),42.558,-70.88,attic
-MA344,LANE,Male,87,White,At least some high school,Operative,42.1166,71.8652,"attic, garret"
+MA344,LANE,Male,87,White,At least some high school,Operative,42.1166,71.8652 Ôªø,"attic, garret"
 MA349,LANE,Female,75,White,Between 1 and 8 years,Farmer's wife,42.0833,-71.4,"m. attic, sg. garret"
 MA350,LANE,Female,60,White,Unknown,Keeping house,42.1355,-71.9705,"attic, garret"
 MA372,LANE,Male,85,White,At least some high school,Professional or technical job,42.45,-73.25,"attic, garret"
@@ -3428,7 +3428,7 @@ MA411,LANE,Male,74,White,Unknown,Professional or technical job,42.4603,-71.3494,
 MA416,LANE,Male,73,White,At least some high school,Farmer,42.4603,-71.3494,"attic, garret"
 MA420,LANE,Male,86,White,Between 1 and 8 years,Clerical or sales position,42.3581,-71.0636,attic
 MA421,LANE,Male,71,White,At least some high school,Professional or technical job,42.3667,-71.3031,"attic, loft"
-MA423,LANE,Female,51,White,,Unknown,42.393,-72.4041,NR
+MA423,LANE,Female,51,White,,Unknown,Ôªø42.3930,-72.4041,NR
 MA424,LANE,Male,56,White,At least some high school,Farmer,42.1236,-71.1786,"attic, attic chamber, garret, open chamber"
 MA425,LANE,Male,87,White,At least some high school,Farmer,42.0653,-71.2483,"attic, garret, open chamber, up attic"
 MA426,LANE,Male,72,White,Between 1 and 8 years,Farmer,42.2388,-71.3702,"attic, s. garret"
@@ -3491,7 +3491,7 @@ ME308,LANE,Male,60,White,At least some high school,Public servant,44.1094,-69.11
 ME309,LANE,Female,81,White,At least some high school,Keeping house,43.9108,-69.963,"attic, garret"
 ME310,LANE,Female,74,White,At least some high school,Keeping house,43.8717,-69.8589,"attic, garret"
 ME311,LANE,Male,69,White,At least some high school,Public servant,43.7375,-69.9936,"attic, garret"
-ME312,LANE,Female,79,White,At least some high school,Keeping house,44.25222,68.36722,"attic, garret"
+ME312,LANE,Female,79,White,At least some high school,Keeping house,44.25222,68.36722Ôªø,"attic, garret"
 ME327,LANE,Male,67,White,At least some high school,Farmer,42.27917,-71.4166,"attic, garret"
 ME328,LANE,Female,84,White,At least some high school,Keeping house,45.1861,-69.2203,"attic, garret"
 ME329,LANE,Female,68,White,Between 1 and 8 years,Keeping house,45.1861,-69.2203,"attic, garret"
@@ -3499,17 +3499,17 @@ ME330,LANE,Female,68,White,At least some college or beyond,Keeping house,44.7967
 ME331,LANE,Male,72,White,At least some high school,Farmer,42.5988,-72.5569,"attic, garret"
 ME332,LANE,Male,83,White,At least some high school,Laborer,42.05,-71.8806,"attic, garret"
 ME333,LANE,Male,42,White,At least some college or beyond,Professional or technical job,42.05,-71.8806,attic
-ME358,LANE,Female,71,White,At least some high school,Keeping house,46.7722,67.8344,NR
-ME359,LANE,Male,71,White,At least some high school,Farmer,46.7722,67.8344,attic
+ME358,LANE,Female,71,White,At least some high school,Keeping house,46.7722,67.8344 Ôªø,NR
+ME359,LANE,Male,71,White,At least some high school,Farmer,46.7722,67.8344 Ôªø,attic
 ME360,LANE,Female,71,White,At least some college or beyond,Professional or technical job,44.7648,-69.7184,attic
-ME361,LANE,Male,22,White,At least some college or beyond,Student,42.2791,71.4166,attic
+ME361,LANE,Male,22,White,At least some college or beyond,Student,42.2791,71.4166 Ôªø,attic
 ME362,LANE,Male,70,White,At least some high school,Craftsman or foreman,42.2611,-71.4639,NR
 ME363,LANE,Female,47,White,At least some high school,Keeping house,46.1255,-67.8397,"attic, garret"
 ME364,LANE,Male,85,White,Between 1 and 8 years,Professional or technical job,46.1255,-67.8397,attic
 ME365,LANE,Male,43,White,At least some high school,Clerical or sales position,47.2419,-68.5722,NR
 ME366,LANE,Male,53,White,At least some high school,Farmer,44.7158,-69.7911,"attic, garret"
 ME367,LANE,Male,62,White,At least some college or beyond,Clerical or sales position,44,-69.53,"attic, garret"
-ME368,LANE,Male,73,White,At least some high school,Farmer,41.6916,71.1463,"attic, garret"
+ME368,LANE,Male,73,White,At least some high school,Farmer,41.6916,71.1463 Ôªø,"attic, garret"
 ME377,LANE,Female,90,White,Unknown,Keeping house,44,-69.53,attic
 ME379,LANE,Male,63,White,At least some high school,Clerical or sales position,44.9738,-70.1675,attic
 ME380,LANE,Female,61,White,At least some high school,Keeping house,45.3755,-67.6425,"attic, garret"
@@ -3601,14 +3601,14 @@ NH128,LANE,Female,89,White,At least some high school,Farmer's wife,43.4508,-71.9
 NH129,LANE,Male,70,White,At least some high school,Farmer,43.5275,-71.4703,"attic, garret"
 NH130,LANE,Male,77,White,Unknown,Farmer,42.8806,-71.3272,"attic, garret"
 NH132,LANE,Male,77,White,At least some high school,Farmer,42.9364,-71.0533,"garret, attic"
-NH144,LANE,Female,96,White,Between 1 and 8 years,Farmer's wife,43.3288,71.7177,"attic, garret"
+NH144,LANE,Female,96,White,Between 1 and 8 years,Farmer's wife,43.3288,71.7177 Ôªø,"attic, garret"
 NH156,LANE,Female,90,White,At least some college or beyond,Other (see notes),43.2067,-71.5381,attic
 NH157,LANE,Male,79,White,At least some high school,Farmer,43.2856,-71.4678,"attic, garret"
 NH158,LANE,Male,74,White,Between 1 and 8 years,Farmer,42.8614,-71.6253,"attic, garret"
 NH159,LANE,Female,78,White,Unknown,Private household worker or gardener,42.9758,-71.6917,"attic, garret"
 NH163,LANE,Female,66,White,At least some high school,Keeping house,43.2344,-72.4244,"attic, garret"
 NH164,LANE,Male,84,White,At least some high school,Farmer,43.3342,-71.9514,"attic, garret"
-NH165,LANE,Male,76,White,At least some high school,Farmer,43.3288,71.7177,"attic, up garret"
+NH165,LANE,Male,76,White,At least some high school,Farmer,43.3288,71.7177 Ôªø,"attic, up garret"
 NH166,LANE,Male,84,White,At least some high school,Farmer,43.5475,-71.4072,"attic, garret"
 NH167,LANE,Male,88,White,At least some high school,Farmer,43.4428,-71.4825,"garret, attic"
 NH170,LANE,Male,67,White,At least some college or beyond,Professional or technical job,43.0308,-71.9389,"attic, garret"
@@ -3761,7 +3761,7 @@ RI111,LANE,Male,73,White,Between 1 and 8 years,Farmer,41.361,-71.4814,"store roo
 RI114,LANE,Male,43,White,At least some college or beyond,Public servant,41.5555,-71.6966,"attic, sug. garret"
 RI115,LANE,Female,63,White,At least some high school,Other (see notes),41.488,-71.3126,"attic, garret, poke hole"
 RI116,LANE,Female,94,White,Between 1 and 8 years,Laborer,41.5154,-71.7015,"attic, garret"
-RI121,LANE,Male,82,White,Between 1 and 8 years,"Manager, official, or proprietor",41.643,71.2602,"attic, garret"
+RI121,LANE,Male,82,White,Between 1 and 8 years,"Manager, official, or proprietor",41.643,71.2602 Ôªø,"attic, garret"
 RI122,LANE,Female,65,White,At least some high school,Keeping house,41.5456,-71.2914,"garret, f. attic"
 RI134,LANE,Female,51,White,At least some high school,Keeping house,41.488,-71.3126,"attic, garret"
 RI138,LANE,Female,82,White,At least some college or beyond,Teacher,41.5456,-71.2914,"attic, garret"
@@ -3793,15 +3793,15 @@ VT240,LANE,Male,81,White,Between 1 and 8 years,Farmer,44.4758,-73.2119,attic
 VT241,LANE,Male,40,White,At least some college or beyond,Teacher,44.4758,-73.2119,attic
 VT242,LANE,Female,81,White,At least some high school,Operative,44.2224,-73.238,garret
 VT243,LANE,Male,69,White,At least some college or beyond,Farmer,44.2224,-73.238,"garret, attic"
-VT244,LANE,Male,77,White,Between 1 and 8 years,Farmer,44.3038,72.98,garret
-VT245,LANE,Male,54,White,Between 1 and 8 years,Farmer,44.3038,72.98,attic
+VT244,LANE,Male,77,White,Between 1 and 8 years,Farmer,44.3038,72.9800 Ôªø,garret
+VT245,LANE,Male,54,White,Between 1 and 8 years,Farmer,44.3038,72.9800 Ôªø,attic
 VT256,LANE,Male,76,White,At least some high school,Farmer,44.4519,-73.1817,garret
 VT257,LANE,Male,67,White,At least some high school,Farmer,43.7617,-72.7369,garret
 VT263,LANE,Male,71,White,Between 1 and 8 years,Farmer,43.6256,-73.1933,"attic, garret"
 VT264,LANE,Female,88,White,At least some high school,Keeping house,43.6256,-73.1933,garret
 VT265,LANE,Male,52,White,At least some high school,Farmer,43.6256,-73.1933,"attic, garret"
-VT275,LANE,Male,88,White,At least some high school,Craftsman or foreman,43.9655,73.2202,"garret, the loft"
-VT276,LANE,Male,54,White,At least some college or beyond,Farmer,43.9655,73.2202,"garret, attic"
+VT275,LANE,Male,88,White,At least some high school,Craftsman or foreman,43.9655,73.2202 Ôªø,"garret, the loft"
+VT276,LANE,Male,54,White,At least some college or beyond,Farmer,43.9655,73.2202 Ôªø,"garret, attic"
 VT277,LANE,Male,58,White,Between 1 and 8 years,Public servant,43.4392,-72.8108,attic
 VT278,LANE,Male,73,White,At least some high school,Farmer,43.4578,-72.9469,"attic, sg. garret"
 VT279,LANE,Male,75,White,At least some high school,Clerical or sales position,43.4392,-72.8108,NR
@@ -3857,6 +3857,7 @@ WI15A,LANCS,Female,80,White,Between 1 and 8 yrs.,Farmer's wife,43.4253,-88.1834,
 WI15B,LANCS,Male,73,White,Between 1 and 8 yrs.,Farmer,43.3239,-88.1668,attic
 WI16A,LANCS,Male,73,White,Between 1 and 8 yrs.,Farmer,43.055,-91.062,attic
 WI16B,LANCS,Male,68,White,Unknown,Farmer,43.0517,-91.1412,"garret, attic"
+,,,,,,,,,"attic, loft"
 WI17B,LANCS,Male,82,White,At least some high school,Clerical and sales,42.8029,-90.7343,attic
 WI17NA,LANCS,Male,90,Black or African American,Between 1 and 8 yrs.,Farmer,42.8029,-90.7343,NR
 WI18A,LANCS,Male,85,White,Between 1 and 8 yrs.,Farmer,42.86,-90.1798,garret
