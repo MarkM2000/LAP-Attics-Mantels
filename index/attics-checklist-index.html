@@ -82,58 +82,23 @@
 <!-- Attic JS -->
 <script src="../js/attic.js"></script>
 <script>
-    // Add footer date
-    setDate()
-
-    // set global variables for header, map container, and footer
-    const header = document.querySelector("header");
-    const mapContainer = document.querySelector("#map");
-    const footer = document.querySelector("footer");
-
-    // set map height to fill window
-    mapContainer.style.height =
-        window.innerHeight - header.offsetHeight - footer.offsetHeight + "px";
-
-    // initial Leaflet map options
-    const options = {
-        center: [37.09024, -95.7],
-        zoom: 7.4,
-        zoomSnap: 0.1,
-        zoomControl: false,
-        attributionControl: false,
-    };
-
-    // create Leaflet map and apply options
-    const map = L.map("map", options);
+    var map = L.map('map', {
+        center: [37, -86],
+        zoom: 5.4
+    });
 
     var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    // Example of keeping your page fresh
-    function setDate() {
-        const date = new Date();
-        const year = date.getFullYear();
-        const month = date.toLocaleString('default', { month: 'long' });
-        const footerText = document.querySelector("footer p");
-        footerText.innerHTML = `${month}, ${year} | New Maps Plus`;
-    }
-
-    // GeoJSon Layers
     var baseTree = {
         label: 'Base Layers',
         children: [
             {
-                label: 'Attic',
+                label: 'Attics',
                 children: [
-                { label: 'Loft', layer: loft },
-                    /* ... */
-                ]
-            },
-            {
-                label: 'Mantel',
-                children: [
+                    { label: 'Loft', layer: loft },
                     /* ... */
                 ]
             },
