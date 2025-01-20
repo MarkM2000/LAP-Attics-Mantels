@@ -1,4 +1,4 @@
-var garrett = {
+var garret = {
     "type": "FeatureCollection",
     "features": [
       {
@@ -13711,7 +13711,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "Between 1 and 8 years",
           "occupation": "Farmer",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13731,7 +13731,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "Between 1 and 8 years",
           "occupation": "Farmer",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13751,7 +13751,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "Between 1 and 8 years",
           "occupation": "Farmer",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13771,7 +13771,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "At least some high school",
           "occupation": "Farmer",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13791,7 +13791,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "At least some college or beyond",
           "occupation": "Manager, official or proprietor",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13811,7 +13811,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "At least some high school",
           "occupation": "Public servant",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13831,7 +13831,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "At least some college or beyond",
           "occupation": "Farmer",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13851,7 +13851,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "Between 1 and 8 years",
           "occupation": "Keeping house",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13871,7 +13871,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "At least some high school",
           "occupation": "Farmer",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13891,7 +13891,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "At least some high school",
           "occupation": "Public servant",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
@@ -13911,7 +13911,7 @@ var garrett = {
           "ethnicity": "White",
           "education": "At least some college or beyond",
           "occupation": "Professional & technical",
-          "attic_type": "garret "
+          "attic_type": "garret"
         },
         "geometry": {
           "type": "Point",
