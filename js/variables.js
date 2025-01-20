@@ -1,5 +1,5 @@
 // Adding variables for checkboxes 
-var loft = L.geoJson(loft, {
+var garret = L.geoJson(garret, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
             color: '#1f78b4',
