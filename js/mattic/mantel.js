@@ -20505,7 +20505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN001",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 99,
@@ -20525,7 +20525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN002",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 82,
@@ -20545,7 +20545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN003",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 79,
@@ -20565,7 +20565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN004",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 38,
@@ -20585,7 +20585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN005",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 78,
@@ -20605,7 +20605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN006",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -20625,7 +20625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN007",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -20645,7 +20645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN008",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -20665,7 +20665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN009",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 82,
@@ -20685,7 +20685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN010",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 79,
@@ -20705,7 +20705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN012",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -20725,7 +20725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN013",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 58,
@@ -20745,7 +20745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN014",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -20765,7 +20765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN015",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 79,
@@ -20785,7 +20785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN016",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 19,
@@ -20805,7 +20805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN017",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 84,
@@ -20825,7 +20825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN018",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 43,
@@ -20845,7 +20845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN019",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -20865,7 +20865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN020",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -20885,7 +20885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN021",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -20905,7 +20905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN022",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 21,
@@ -20925,7 +20925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN023",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 80,
@@ -20945,7 +20945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN024",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 56,
@@ -20965,7 +20965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN025",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -20985,7 +20985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN026",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -21005,7 +21005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN027",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 51,
@@ -21025,7 +21025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN028",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 65,
@@ -21045,7 +21045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN030",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 44,
@@ -21065,7 +21065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN032",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 60,
@@ -21085,7 +21085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN033",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 17,
@@ -21105,7 +21105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN034",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 31,
@@ -21125,7 +21125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN035",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 44,
@@ -21145,7 +21145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN037",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 50,
@@ -21165,7 +21165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN038",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -21185,7 +21185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN039",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 18,
@@ -21205,7 +21205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN040",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 38,
@@ -21225,7 +21225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN041",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 82,
@@ -21245,7 +21245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN042",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 89,
@@ -21265,7 +21265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN043",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 81,
@@ -21285,7 +21285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN044",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 86,
@@ -21305,7 +21305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN045",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -21325,7 +21325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN046",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 27,
@@ -21345,7 +21345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN047",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -21365,7 +21365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN048",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -21385,7 +21385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN049",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 17,
@@ -21405,7 +21405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN050",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 69,
@@ -21425,7 +21425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN051",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 21,
@@ -21445,7 +21445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN053",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 62,
@@ -21465,7 +21465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN054",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 60,
@@ -21485,7 +21485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN057",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 74,
@@ -21505,7 +21505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN058",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 24,
@@ -21525,7 +21525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN060",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 62,
@@ -21545,7 +21545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA061",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -21565,7 +21565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA062",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 61,
@@ -21585,7 +21585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA064",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 86,
@@ -21605,7 +21605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA065",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -21625,7 +21625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA066",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 63,
@@ -21645,7 +21645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA067",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 24,
@@ -21665,7 +21665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA068",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 69,
@@ -21685,7 +21685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA069",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 63,
@@ -21705,7 +21705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA070",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 75,
@@ -21725,7 +21725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA071",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 56,
@@ -21745,7 +21745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA073",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 64,
@@ -21765,7 +21765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA075",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 65,
@@ -21785,7 +21785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA076",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 77,
@@ -21805,7 +21805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA078",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 52,
@@ -21825,7 +21825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA079",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 68,
@@ -21845,7 +21845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA083",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -21865,7 +21865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA085",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 66,
@@ -21885,7 +21885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA086",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 88,
@@ -21905,7 +21905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA087",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 74,
@@ -21925,7 +21925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA089",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -21945,7 +21945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA090",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 57,
@@ -21965,7 +21965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA091",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 62,
@@ -21985,7 +21985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA092",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 63,
@@ -22005,7 +22005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA094",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -22025,7 +22025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA096",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 66,
@@ -22045,7 +22045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA097",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 45,
@@ -22065,7 +22065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA100",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 15,
@@ -22085,7 +22085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA101",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 13,
@@ -22105,7 +22105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA102",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 52,
@@ -22125,7 +22125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA103",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 47,
@@ -22145,7 +22145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA105",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 71,
@@ -22165,7 +22165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA106",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 44,
@@ -22185,7 +22185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA107",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 71,
@@ -22205,7 +22205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA108",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -22225,7 +22225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA109",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 79,
@@ -22245,7 +22245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA110",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 71,
@@ -22265,7 +22265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA112",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -22285,7 +22285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA119",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 78,
@@ -22305,7 +22305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA121",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 69,
@@ -22325,7 +22325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA122",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -22345,7 +22345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA123",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 67,
@@ -22365,7 +22365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA124",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 20,
@@ -22385,7 +22385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA125",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 49,
@@ -22405,7 +22405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA127",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 62,
@@ -22425,7 +22425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA135",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 47,
@@ -22445,7 +22445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA136",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -22465,7 +22465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA137",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 66,
@@ -22485,7 +22485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA139",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 46,
@@ -22505,7 +22505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA141",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -22525,7 +22525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA142",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 74,
@@ -22545,7 +22545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA146",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 35,
@@ -22565,7 +22565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA147",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 91,
@@ -22585,7 +22585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA153",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 71,
@@ -22605,7 +22605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA154",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 71,
@@ -22625,7 +22625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA157",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 68,
@@ -22645,7 +22645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA158",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "",
           "Age": 61,
@@ -22665,7 +22665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA159",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 74,
@@ -22685,7 +22685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA160",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -22705,7 +22705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA161",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -22725,7 +22725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA163",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 66,
@@ -22745,7 +22745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA164",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 22,
@@ -22765,7 +22765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA166",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 82,
@@ -22785,7 +22785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA167",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 52,
@@ -22805,7 +22805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA170",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -22825,7 +22825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA171",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 22,
@@ -22845,7 +22845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA176",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -22865,7 +22865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA177",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -22885,7 +22885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA180",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -22905,7 +22905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA181",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 74,
@@ -22925,7 +22925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA182",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 80,
@@ -22945,7 +22945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA183",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 67,
@@ -22965,7 +22965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA184",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 60,
@@ -22985,7 +22985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA185",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 21,
@@ -23005,7 +23005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA186",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 55,
@@ -23025,7 +23025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA191",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 28,
@@ -23045,7 +23045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA192",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 70,
@@ -23065,7 +23065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA196",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 62,
@@ -23085,7 +23085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA197",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -23105,7 +23105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA199",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -23125,7 +23125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA202",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 55,
@@ -23145,7 +23145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA204",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 51,
@@ -23165,7 +23165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA205",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 62,
@@ -23185,7 +23185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA208",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 30,
@@ -23205,7 +23205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA209",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 54,
@@ -23225,7 +23225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA210",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 74,
@@ -23245,7 +23245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA211",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -23265,7 +23265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA213",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -23285,7 +23285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA214",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 48,
@@ -23305,7 +23305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA217",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 63,
@@ -23325,7 +23325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA218",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -23345,7 +23345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA219",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -23365,7 +23365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "GA221",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -23385,7 +23385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL229",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 57,
@@ -23405,7 +23405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL230",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 14,
@@ -23425,7 +23425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL232",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 20,
@@ -23445,7 +23445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL233",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 23,
@@ -23465,7 +23465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL240",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 18,
@@ -23485,7 +23485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL242",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 81,
@@ -23505,7 +23505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL243",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 35,
@@ -23525,7 +23525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL248",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 37,
@@ -23545,7 +23545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL249",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 64,
@@ -23565,7 +23565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL250",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 66,
@@ -23585,7 +23585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL253",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 34,
@@ -23605,7 +23605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL254",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -23625,7 +23625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL255",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -23645,7 +23645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL257",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 57,
@@ -23665,7 +23665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL259",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 31,
@@ -23685,7 +23685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL260",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -23705,7 +23705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL261",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 19,
@@ -23725,7 +23725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL263",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -23745,7 +23745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL264",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 19,
@@ -23765,7 +23765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL265",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 80,
@@ -23785,7 +23785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL266",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 25,
@@ -23805,7 +23805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL267",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 88,
@@ -23825,7 +23825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL269",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -23845,7 +23845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL270",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 18,
@@ -23865,7 +23865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL272",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 65,
@@ -23885,7 +23885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL273",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 17,
@@ -23905,7 +23905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL274",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 30,
@@ -23925,7 +23925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL275",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -23945,7 +23945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL276",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 73,
@@ -23965,7 +23965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL277",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -23985,7 +23985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL278",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 20,
@@ -24005,7 +24005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL282",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 79,
@@ -24025,7 +24025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL284",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 59,
@@ -24045,7 +24045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL286",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 22,
@@ -24065,7 +24065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL288",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -24085,7 +24085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN290",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 65,
@@ -24105,7 +24105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN291",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 71,
@@ -24125,7 +24125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN292",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 78,
@@ -24145,7 +24145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN293",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 62,
@@ -24165,7 +24165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN294",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 23,
@@ -24185,7 +24185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN295",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 71,
@@ -24205,7 +24205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN296",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 88,
@@ -24225,7 +24225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN297",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 18,
@@ -24245,7 +24245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN299",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 37,
@@ -24265,7 +24265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN300",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 38,
@@ -24285,7 +24285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN301",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 82,
@@ -24305,7 +24305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN302",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 61,
@@ -24325,7 +24325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN303",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 79,
@@ -24345,7 +24345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN304",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 80,
@@ -24365,7 +24365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN305",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 56,
@@ -24385,7 +24385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN306",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 53,
@@ -24405,7 +24405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN307",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 17,
@@ -24425,7 +24425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN308",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 19,
@@ -24445,7 +24445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN309",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 51,
@@ -24465,7 +24465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN310",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 42,
@@ -24485,7 +24485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN311",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 32,
@@ -24505,7 +24505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN312",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -24525,7 +24525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN313",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 26,
@@ -24545,7 +24545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN315",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 81,
@@ -24565,7 +24565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN317",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 81,
@@ -24585,7 +24585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN318",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -24605,7 +24605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN319",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 96,
@@ -24625,7 +24625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN320",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -24645,7 +24645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN321",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -24665,7 +24665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN322",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 22,
@@ -24685,7 +24685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN323",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 83,
@@ -24705,7 +24705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN324",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -24725,7 +24725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN325",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -24745,7 +24745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN326",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 91,
@@ -24765,7 +24765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN328",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 68,
@@ -24785,7 +24785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN329",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 28,
@@ -24805,7 +24805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN330",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -24825,7 +24825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN335",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 48,
@@ -24845,7 +24845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN336",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 84,
@@ -24865,7 +24865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL337",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 41,
@@ -24885,7 +24885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL338",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 64,
@@ -24905,7 +24905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL339",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 28,
@@ -24925,7 +24925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL341",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -24945,7 +24945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL342",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 61,
@@ -24965,7 +24965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL343",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 27,
@@ -24985,7 +24985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL347",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 66,
@@ -25005,7 +25005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL348",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 50,
@@ -25025,7 +25025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL349",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -25045,7 +25045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL350",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -25065,7 +25065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL363",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 42,
@@ -25085,7 +25085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL351",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -25105,7 +25105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL364",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -25125,7 +25125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL352",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 19,
@@ -25145,7 +25145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL372",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 19,
@@ -25165,7 +25165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL353",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 87,
@@ -25185,7 +25185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL377",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 65,
@@ -25205,7 +25205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL356",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 61,
@@ -25225,7 +25225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL357",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 68,
@@ -25245,7 +25245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL358",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -25265,7 +25265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL386",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 57,
@@ -25285,7 +25285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL399",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 71,
@@ -25305,7 +25305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL359",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -25325,7 +25325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL360",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 49,
@@ -25345,7 +25345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL361",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 65,
@@ -25365,7 +25365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL410",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 81,
@@ -25385,7 +25385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL362",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 71,
@@ -25405,7 +25405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL414",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 35,
@@ -25425,7 +25425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL418",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 38,
@@ -25445,7 +25445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL421",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -25465,7 +25465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL424",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 26,
@@ -25485,7 +25485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL365",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 45,
@@ -25505,7 +25505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL434",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 90,
@@ -25525,7 +25525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL366",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 86,
@@ -25545,7 +25545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL367",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 89,
@@ -25565,7 +25565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL368",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 55,
@@ -25585,7 +25585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL370",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -25605,7 +25605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL449",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -25625,7 +25625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL371",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 49,
@@ -25645,7 +25645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL473",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 65,
@@ -25665,7 +25665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL477",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 75,
@@ -25685,7 +25685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL374",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 18,
@@ -25705,7 +25705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL375",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 31,
@@ -25725,7 +25725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR676",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 67,
@@ -25745,7 +25745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR690",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 55,
@@ -25765,7 +25765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR697",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 84,
@@ -25785,7 +25785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL379",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 60,
@@ -25805,7 +25805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR704",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 61,
@@ -25825,7 +25825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL380",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 73,
@@ -25845,7 +25845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR707",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 17,
@@ -25865,7 +25865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL381",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 69,
@@ -25885,7 +25885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR710",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 22,
@@ -25905,7 +25905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL382",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -25925,7 +25925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR754",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -25945,7 +25945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL385",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 60,
@@ -25965,7 +25965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL387",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 32,
@@ -25985,7 +25985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL389",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 55,
@@ -26005,7 +26005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL390",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 65,
@@ -26025,7 +26025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL391",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 27,
@@ -26045,7 +26045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL393",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 74,
@@ -26065,7 +26065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL394",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 73,
@@ -26085,7 +26085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL395",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 54,
@@ -26105,7 +26105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL397",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 66,
@@ -26125,7 +26125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL398",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 51,
@@ -26145,7 +26145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL453",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 58,
@@ -26165,7 +26165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL457",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 46,
@@ -26185,7 +26185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL404",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 77,
@@ -26205,7 +26205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL405",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 16,
@@ -26225,7 +26225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL407",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 58,
@@ -26245,7 +26245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL408",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 24,
@@ -26265,7 +26265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL412",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -26285,7 +26285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL413",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 22,
@@ -26305,7 +26305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL416",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 49,
@@ -26325,7 +26325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL417",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 79,
@@ -26345,7 +26345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL419",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 27,
@@ -26365,7 +26365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL422",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 83,
@@ -26385,7 +26385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL423",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 45,
@@ -26405,7 +26405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL429",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 44,
@@ -26425,7 +26425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL430",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 79,
@@ -26445,7 +26445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL433",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 78,
@@ -26465,7 +26465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL435",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 73,
@@ -26485,7 +26485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL437",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 28,
@@ -26505,7 +26505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL440",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 55,
@@ -26525,7 +26525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL443",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 19,
@@ -26545,7 +26545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL445",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 57,
@@ -26565,7 +26565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL446",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 59,
@@ -26585,7 +26585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA640",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -26605,7 +26605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL447",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -26625,7 +26625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL448",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 49,
@@ -26645,7 +26645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL450",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -26665,7 +26665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL452",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 50,
@@ -26685,7 +26685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA655",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 31,
@@ -26705,7 +26705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL456",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 63,
@@ -26725,7 +26725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA761",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 91,
@@ -26745,7 +26745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA768",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 38,
@@ -26765,7 +26765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL461",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 42,
@@ -26785,7 +26785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL462",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 71,
@@ -26805,7 +26805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA777",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 18,
@@ -26825,7 +26825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA789",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -26845,7 +26845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL466",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 88,
@@ -26865,7 +26865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA811",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 38,
@@ -26885,7 +26885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS523",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 18,
@@ -26905,7 +26905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "FL471",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -26925,7 +26925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS545",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 63,
@@ -26945,7 +26945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS547",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 30,
@@ -26965,7 +26965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL474",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 18,
@@ -26985,7 +26985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL475",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 70,
@@ -27005,7 +27005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS552",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 66,
@@ -27025,7 +27025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL476",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 52,
@@ -27045,7 +27045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS558",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 22,
@@ -27065,7 +27065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS564",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 37,
@@ -27085,7 +27085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL480",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 43,
@@ -27105,7 +27105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL482",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 84,
@@ -27125,7 +27125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS585",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 52,
@@ -27145,7 +27145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AL484",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 31,
@@ -27165,7 +27165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS586",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 88,
@@ -27185,7 +27185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN486",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -27205,7 +27205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS589",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 13,
@@ -27225,7 +27225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN487",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 49,
@@ -27245,7 +27245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS590",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 66,
@@ -27265,7 +27265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN488",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 69,
@@ -27285,7 +27285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN489",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 49,
@@ -27305,7 +27305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN490",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 32,
@@ -27325,7 +27325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS598",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 81,
@@ -27345,7 +27345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN491",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -27365,7 +27365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS600",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 84,
@@ -27385,7 +27385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN493",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 85,
@@ -27405,7 +27405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN494",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 58,
@@ -27425,7 +27425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN495",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 77,
@@ -27445,7 +27445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS610",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 73,
@@ -27465,7 +27465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN496",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 59,
@@ -27485,7 +27485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN497",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -27505,7 +27505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN498",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 69,
@@ -27525,7 +27525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS614",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 58,
@@ -27545,7 +27545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN499",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 45,
@@ -27565,7 +27565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN500",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -27585,7 +27585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS622",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 17,
@@ -27605,7 +27605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN501",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -27625,7 +27625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS624",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 33,
@@ -27645,7 +27645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS627",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 79,
@@ -27665,7 +27665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN502",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 36,
@@ -27685,7 +27685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN504",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 35,
@@ -27705,7 +27705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN507",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -27725,7 +27725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN509",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 49,
@@ -27745,7 +27745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN512",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -27765,7 +27765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN513",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 73,
@@ -27785,7 +27785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN514",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 16,
@@ -27805,7 +27805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN515",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -27825,7 +27825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN516",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 17,
@@ -27845,7 +27845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN517",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 30,
@@ -27865,7 +27865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TN519",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 56,
@@ -27885,7 +27885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS521",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -27905,7 +27905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS522",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 15,
@@ -27925,7 +27925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS524",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 18,
@@ -27945,7 +27945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX828",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 67,
@@ -27965,7 +27965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX830",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 23,
@@ -27985,7 +27985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX835",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 58,
@@ -28005,7 +28005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS527",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 85,
@@ -28025,7 +28025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX842",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 64,
@@ -28045,7 +28045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS528",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 87,
@@ -28065,7 +28065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX843",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 42,
@@ -28085,7 +28085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS529",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -28105,7 +28105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX847",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 32,
@@ -28125,7 +28125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX860",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 69,
@@ -28145,7 +28145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS531",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 85,
@@ -28165,7 +28165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS533",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 25,
@@ -28185,7 +28185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX868",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 53,
@@ -28205,7 +28205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS534",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 69,
@@ -28225,7 +28225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX869",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 30,
@@ -28245,7 +28245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS535",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 67,
@@ -28265,7 +28265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS538",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 81,
@@ -28285,7 +28285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX890",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 41,
@@ -28305,7 +28305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS541",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 18,
@@ -28325,7 +28325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS542",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 65,
@@ -28345,7 +28345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS544",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 75,
@@ -28365,7 +28365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS548",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 69,
@@ -28385,7 +28385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS549",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 81,
@@ -28405,7 +28405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS553",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 47,
@@ -28425,7 +28425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS556",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -28445,7 +28445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS562",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 85,
@@ -28465,7 +28465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS563",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 46,
@@ -28485,7 +28485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS565",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -28505,7 +28505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS567",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 86,
@@ -28525,7 +28525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS570",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 75,
@@ -28545,7 +28545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS572",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 44,
@@ -28565,7 +28565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS574",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 63,
@@ -28585,7 +28585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS575",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -28605,7 +28605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS576",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 42,
@@ -28625,7 +28625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS581",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 77,
@@ -28645,7 +28645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS591",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 19,
@@ -28665,7 +28665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS595",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 50,
@@ -28685,7 +28685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS597",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 78,
@@ -28705,7 +28705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS599",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 19,
@@ -28725,7 +28725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS601",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 69,
@@ -28745,7 +28745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS605",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 85,
@@ -28765,7 +28765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS606",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 95,
@@ -28785,7 +28785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS607",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 85,
@@ -28805,7 +28805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS608",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -28825,7 +28825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS613",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 52,
@@ -28845,7 +28845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS615",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 79,
@@ -28865,7 +28865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS616",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 75,
@@ -28885,7 +28885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS618",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 83,
@@ -28905,7 +28905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS623",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 66,
@@ -28925,7 +28925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "MS629",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 27,
@@ -28945,7 +28945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA632",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 79,
@@ -28965,7 +28965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA633",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 60,
@@ -28985,7 +28985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA634",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 78,
@@ -29005,7 +29005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA635",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 59,
@@ -29025,7 +29025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA642",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -29045,7 +29045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA644",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 47,
@@ -29065,7 +29065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA646",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 75,
@@ -29085,7 +29085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR675",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 47,
@@ -29105,7 +29105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA648",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 46,
@@ -29125,7 +29125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA649",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 24,
@@ -29145,7 +29145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR678",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 68,
@@ -29165,7 +29165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR679",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 31,
@@ -29185,7 +29185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR680",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 43,
@@ -29205,7 +29205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR682",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 67,
@@ -29225,7 +29225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR683",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -29245,7 +29245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA656",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 18,
@@ -29265,7 +29265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR684",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 62,
@@ -29285,7 +29285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR685",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 53,
@@ -29305,7 +29305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA657X",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 86,
@@ -29325,7 +29325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR686",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 82,
@@ -29345,7 +29345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA657Y",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 53,
@@ -29365,7 +29365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR687",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 35,
@@ -29385,7 +29385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR689",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 82,
@@ -29405,7 +29405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR691",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 49,
@@ -29425,7 +29425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR693",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 48,
@@ -29445,7 +29445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR694",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -29465,7 +29465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR695",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 49,
@@ -29485,7 +29485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR696",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 85,
@@ -29505,7 +29505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR698",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 53,
@@ -29525,7 +29525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA662",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 35,
@@ -29545,7 +29545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA663",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 86,
@@ -29565,7 +29565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA664",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 57,
@@ -29585,7 +29585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR701",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -29605,7 +29605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR702",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 53,
@@ -29625,7 +29625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR703",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 74,
@@ -29645,7 +29645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR705",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 85,
@@ -29665,7 +29665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR706",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -29685,7 +29685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR708",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 43,
@@ -29705,7 +29705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR709",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 17,
@@ -29725,7 +29725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR711",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 46,
@@ -29745,7 +29745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA671",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 38,
@@ -29765,7 +29765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR712",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 23,
@@ -29785,7 +29785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR713",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 86,
@@ -29805,7 +29805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR714",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 41,
@@ -29825,7 +29825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR716",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 84,
@@ -29845,7 +29845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR718",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 49,
@@ -29865,7 +29865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR719",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 55,
@@ -29885,7 +29885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR720",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -29905,7 +29905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR721",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -29925,7 +29925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR723",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 62,
@@ -29945,7 +29945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR724",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 33,
@@ -29965,7 +29965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR725",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 52,
@@ -29985,7 +29985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR727",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -30005,7 +30005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR728",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 85,
@@ -30025,7 +30025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR729",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 42,
@@ -30045,7 +30045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR730",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -30065,7 +30065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR731",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 57,
@@ -30085,7 +30085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR732",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 29,
@@ -30105,7 +30105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR733",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 70,
@@ -30125,7 +30125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR736",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 56,
@@ -30145,7 +30145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR737",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 83,
@@ -30165,7 +30165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR738",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 51,
@@ -30185,7 +30185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR739",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 23,
@@ -30205,7 +30205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR741",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 40,
@@ -30225,7 +30225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR742",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -30245,7 +30245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR745",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -30265,7 +30265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR746",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 60,
@@ -30285,7 +30285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR749",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 68,
@@ -30305,7 +30305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR751",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 68,
@@ -30325,7 +30325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "AR753",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 23,
@@ -30345,7 +30345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA757",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 55,
@@ -30365,7 +30365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA758",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 83,
@@ -30385,7 +30385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA765",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 47,
@@ -30405,7 +30405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA769",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 36,
@@ -30425,7 +30425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA770",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 55,
@@ -30445,7 +30445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA773",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -30465,7 +30465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA776",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 36,
@@ -30485,7 +30485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA778",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 79,
@@ -30505,7 +30505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA779",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 23,
@@ -30525,7 +30525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA780",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 20,
@@ -30545,7 +30545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA781",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 88,
@@ -30565,7 +30565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA785",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 88,
@@ -30585,7 +30585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA786",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -30605,7 +30605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA787",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 42,
@@ -30625,7 +30625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA788",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -30645,7 +30645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA791",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 51,
@@ -30665,7 +30665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA793",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -30685,7 +30685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA795",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 85,
@@ -30705,7 +30705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA797",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -30725,7 +30725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA798",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 56,
@@ -30745,7 +30745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA801",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 46,
@@ -30765,7 +30765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA804",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 57,
@@ -30785,7 +30785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA805",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -30805,7 +30805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA806",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 48,
@@ -30825,7 +30825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA809",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male ",
           "Age": 52,
@@ -30845,7 +30845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "LA815",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male ",
           "Age": 68,
@@ -30865,7 +30865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX820",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 42,
@@ -30885,7 +30885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX824",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 42,
@@ -30905,7 +30905,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX825",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 76,
@@ -30925,7 +30925,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX826",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 53,
@@ -30945,7 +30945,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX827",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 30,
@@ -30965,7 +30965,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX829",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -30985,7 +30985,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX831",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 32,
@@ -31005,7 +31005,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX832",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 82,
@@ -31025,7 +31025,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX833",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 27,
@@ -31045,7 +31045,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX834",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 29,
@@ -31065,7 +31065,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX836",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 61,
@@ -31085,7 +31085,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX844",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 85,
@@ -31105,7 +31105,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX845",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 16,
@@ -31125,7 +31125,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX846",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 29,
@@ -31145,7 +31145,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX848",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 71,
@@ -31165,7 +31165,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX849",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 60,
@@ -31185,7 +31185,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX851",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 84,
@@ -31205,7 +31205,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX852",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 73,
@@ -31225,7 +31225,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX853",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 80,
@@ -31245,7 +31245,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX854",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 77,
@@ -31265,7 +31265,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX858",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -31285,7 +31285,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX859",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 41,
@@ -31305,7 +31305,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX861",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 64,
@@ -31325,7 +31325,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX863",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 47,
@@ -31345,7 +31345,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX865",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 72,
@@ -31365,7 +31365,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX867",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 15,
@@ -31385,7 +31385,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX870",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 33,
@@ -31405,7 +31405,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX873",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 86,
@@ -31425,7 +31425,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX874",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 67,
@@ -31445,7 +31445,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX875",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 75,
@@ -31465,7 +31465,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX876",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 29,
@@ -31485,7 +31485,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX878",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 59,
@@ -31505,7 +31505,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX879",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 83,
@@ -31525,7 +31525,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX880",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 79,
@@ -31545,7 +31545,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX882",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 76,
@@ -31565,7 +31565,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX884",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 90,
@@ -31585,7 +31585,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX885",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -31605,7 +31605,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX886",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 53,
@@ -31625,7 +31625,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX887",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 65,
@@ -31645,7 +31645,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX889",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 16,
@@ -31665,7 +31665,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX891",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 25,
@@ -31685,7 +31685,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX893",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 58,
@@ -31705,7 +31705,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX894",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 74,
@@ -31725,7 +31725,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX895",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 40,
@@ -31745,7 +31745,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX898",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 68,
@@ -31765,7 +31765,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX899",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 40,
@@ -31785,7 +31785,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX901",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 29,
@@ -31805,7 +31805,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX902",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Male",
           "Age": 23,
@@ -31825,7 +31825,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX906",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 72,
@@ -31845,7 +31845,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX907",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 86,
@@ -31865,7 +31865,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX908",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 20,
@@ -31885,7 +31885,7 @@ var mantel = {
         "type": "Feature",
         "properties": {
           "Informant": "TX909",
-          "mantel": "mantel ",
+          "mantel": "mantel",
           "Project": "LAGS",
           "Sex": "Female",
           "Age": 56,
