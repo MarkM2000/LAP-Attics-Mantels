@@ -119,7 +119,7 @@ var mantel = L.geoJson(mantel, {
         const props = feature.properties
         const popup = `
                 <b>${props.informant}</b>
-                <br>Attic type: ${props.attic_type}<br>
+                <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
             className: 'tool-informant'
