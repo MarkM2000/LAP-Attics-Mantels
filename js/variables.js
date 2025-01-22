@@ -118,7 +118,7 @@ var mantel = L.geoJson(mantel, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
+                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
@@ -153,7 +153,7 @@ var mantelboard = L.geoJson(mantelboard, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
+                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
@@ -188,7 +188,7 @@ var mantelpiece = L.geoJson(mantelpiece, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
+                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
@@ -223,7 +223,7 @@ var mantelshelf = L.geoJson(mantelshelf, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
+                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
