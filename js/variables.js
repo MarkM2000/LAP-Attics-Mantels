@@ -13,7 +13,7 @@ var attic = L.geoJson(attic, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-					<b>${props.Informant}</b>
+					<b>${props.informant}</b>
 					<br>Attic type: ${props.attic_type}<br>
 				`
         layer.bindTooltip(popup, {
@@ -48,7 +48,7 @@ var loft = L.geoJson(loft, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-					<b>${props.Informant}</b>
+					<b>${props.informant}</b>
 					<br>Attic type: ${props.attic_type}<br>
 				`
         layer.bindTooltip(popup, {
@@ -83,7 +83,7 @@ var garret = L.geoJson(garret, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-					<b>${props.Informant}</b>
+					<b>${props.informant}</b>
 					<br>Attic type: ${props.attic_type}<br>
 				`
         layer.bindTooltip(popup, {
