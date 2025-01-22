@@ -16,7 +16,7 @@ var attic = L.geoJson(attic, {
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-Informant'
+            className: 'tool-informant'
         });
 
         layer.on('mouseover', function () {
@@ -51,7 +51,7 @@ var loft = L.geoJson(loft, {
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-Informant'
+            className: 'tool-informant'
         });
 
         layer.on('mouseover', function () {
@@ -86,7 +86,7 @@ var garret = L.geoJson(garret, {
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-Informant'
+            className: 'tool-informant'
         });
 
         layer.on('mouseover', function () {
@@ -121,7 +121,7 @@ var mantel = L.geoJson(mantel, {
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-Informant'
+            className: 'tool-informant'
         });
 
         layer.on('mouseover', function () {
@@ -155,7 +155,7 @@ var mantelboard = L.geoJson(mantelboard, {
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-Informant'
+            className: 'tool-informant'
         });
 
         layer.on('mouseover', function () {
@@ -189,7 +189,7 @@ var mantelpiece = L.geoJson(mantelpiece, {
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-Informant'
+            className: 'tool-informant'
         });
 
         layer.on('mouseover', function () {
@@ -223,7 +223,7 @@ var mantelshelf = L.geoJson(mantelshelf, {
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-Informant'
+            className: 'tool-informant'
         });
 
         layer.on('mouseover', function () {
