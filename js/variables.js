@@ -223,7 +223,7 @@ var mantelshelf = L.geoJson(mantelshelf, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
+                <b>Informant: ${props.Informant}<b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
