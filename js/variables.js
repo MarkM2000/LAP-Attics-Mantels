@@ -109,9 +109,9 @@ var garret = L.geoJson(attic, {
 var mantel = L.geoJson(mantel, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#1f78b4',
+            color: '#FFFFFF',
             weight: 1,
-            fillColor: '#0D98BA',
+            fillColor: '#ffa9d0',
             fillOpacity: .8,
             radius: 10
         });
@@ -119,8 +119,9 @@ var mantel = L.geoJson(mantel, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <br>Attic type: ${props.mantel}<br>
-            `
+					<b>${props.Informant}</b>
+					<br>Gender: ${props.mantel}<br>
+				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
         });
@@ -128,13 +129,13 @@ var mantel = L.geoJson(mantel, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
     }
@@ -143,9 +144,9 @@ var mantel = L.geoJson(mantel, {
 var mantelboard = L.geoJson(mantelboard, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#1f78b4',
+            color: '#FFFFFF',
             weight: 1,
-            fillColor: '#0D98BA',
+            fillColor: '#ffa9d0',
             fillOpacity: .8,
             radius: 10
         });
@@ -153,8 +154,9 @@ var mantelboard = L.geoJson(mantelboard, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <br>Attic type: ${props.mantel}<br>
-            `
+					<b>${props.Informant}</b>
+					<br>Gender: ${props.mantel}<br>
+				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
         });
@@ -162,13 +164,13 @@ var mantelboard = L.geoJson(mantelboard, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
     }
@@ -177,9 +179,9 @@ var mantelboard = L.geoJson(mantelboard, {
 var mantelpiece = L.geoJson(mantelpiece, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#1f78b4',
+            color: '#FFFFFF',
             weight: 1,
-            fillColor: '#0D98BA',
+            fillColor: '#ffa9d0',
             fillOpacity: .8,
             radius: 10
         });
@@ -187,8 +189,9 @@ var mantelpiece = L.geoJson(mantelpiece, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <br>Attic type: ${props.mantel}<br>
-            `
+					<b>${props.Informant}</b>
+					<br>Gender: ${props.mantel}<br>
+				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
         });
@@ -196,13 +199,13 @@ var mantelpiece = L.geoJson(mantelpiece, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
     }
@@ -211,9 +214,9 @@ var mantelpiece = L.geoJson(mantelpiece, {
 var mantelshelf = L.geoJson(mantelshelf, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#1f78b4',
+            color: '#FFFFFF',
             weight: 1,
-            fillColor: '#0D98BA',
+            fillColor: '#ffa9d0',
             fillOpacity: .8,
             radius: 10
         });
@@ -221,8 +224,9 @@ var mantelshelf = L.geoJson(mantelshelf, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <br>Attic type: ${props.mantel}<br>
-            `
+					<b>${props.Informant}</b>
+					<br>Gender: ${props.mantel}<br>
+				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
         });
@@ -230,13 +234,13 @@ var mantelshelf = L.geoJson(mantelshelf, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#0D98BA'
+                fillColor: '#ffa9d0'
             });
         });
     }
