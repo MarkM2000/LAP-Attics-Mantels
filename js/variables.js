@@ -12,7 +12,6 @@ var garret = L.geoJson(garret, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
@@ -47,7 +46,6 @@ var attic = L.geoJson(attic, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
@@ -82,7 +80,6 @@ var loft = L.geoJson(loft, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
@@ -118,7 +115,6 @@ var mantel = L.geoJson(mantel, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
@@ -153,7 +149,6 @@ var mantelboard = L.geoJson(mantelboard, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
@@ -188,7 +183,6 @@ var mantelpiece = L.geoJson(mantelpiece, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
@@ -223,7 +217,6 @@ var mantelshelf = L.geoJson(mantelshelf, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
