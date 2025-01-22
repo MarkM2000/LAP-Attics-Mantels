@@ -1,10 +1,11 @@
 // Adding variables for checkboxes 
+/// Attic variable
 var attic = L.geoJson(attic, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#1f78b4',
             weight: 1,
-            fillColor: '#FFFFFF',
+            fillColor: '#0D98BA',
             fillOpacity: .8,
             radius: 10
         });
@@ -12,7 +13,6 @@ var attic = L.geoJson(attic, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>Informant: ${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
@@ -22,13 +22,13 @@ var attic = L.geoJson(attic, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFFFFF'
+                fillColor: '#0D98BA'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFFFFF'
+                fillColor: '#0D98BA'
             });
         });
     }
@@ -37,9 +37,9 @@ var attic = L.geoJson(attic, {
 var loft = L.geoJson(loft, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#1f78b4',
             weight: 1,
-            fillColor: '#FFFFFF',
+            fillColor: '#0D98BA',
             fillOpacity: .8,
             radius: 10
         });
@@ -47,7 +47,6 @@ var loft = L.geoJson(loft, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
@@ -57,13 +56,13 @@ var loft = L.geoJson(loft, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFFFFF'
+                fillColor: '#0D98BA'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFFFFF'
+                fillColor: '#0D98BA'
             });
         });
     }
@@ -72,9 +71,9 @@ var loft = L.geoJson(loft, {
 var garret = L.geoJson(garret, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#1f78b4',
             weight: 1,
-            fillColor: '#FFFFFF',
+            fillColor: '#0D98BA',
             fillOpacity: .8,
             radius: 10
         });
@@ -82,7 +81,6 @@ var garret = L.geoJson(garret, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
@@ -92,18 +90,17 @@ var garret = L.geoJson(garret, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFFFFF'
+                fillColor: '#0D98BA'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFFFFF'
+                fillColor: '#0D98BA'
             });
         });
     }
 })
-
 /// Mantel
 var mantel = L.geoJson(mantel, {
     pointToLayer: function (feature, latlng) {
