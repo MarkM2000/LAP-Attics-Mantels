@@ -12,11 +12,11 @@ var garret = L.geoJson(garret, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
+                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-informant'
+            className: 'tool-Informant'
         });
 
         layer.on('mouseover', function () {
@@ -47,11 +47,11 @@ var attic = L.geoJson(attic, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
+                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-informant'
+            className: 'tool-Informant'
         });
 
         layer.on('mouseover', function () {
@@ -82,11 +82,11 @@ var loft = L.geoJson(loft, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
+                <b>${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-informant'
+            className: 'tool-Informant'
         });
 
         layer.on('mouseover', function () {
@@ -118,11 +118,11 @@ var mantel = L.geoJson(mantel, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
+                <b>${props.Informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-informant'
+            className: 'tool-Informant'
         });
 
         layer.on('mouseover', function () {
@@ -153,11 +153,11 @@ var mantelboard = L.geoJson(mantelboard, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
+                <b>${props.Informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-informant'
+            className: 'tool-Informant'
         });
 
         layer.on('mouseover', function () {
@@ -188,11 +188,11 @@ var mantelpiece = L.geoJson(mantelpiece, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
+                <b>${props.Informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-informant'
+            className: 'tool-Informant'
         });
 
         layer.on('mouseover', function () {
@@ -223,11 +223,11 @@ var mantelshelf = L.geoJson(mantelshelf, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.informant}</b>
+                <b>${props.Informant}</b>
                 <br>Attic type: ${props.mantel}<br>
             `
         layer.bindTooltip(popup, {
-            className: 'tool-informant'
+            className: 'tool-Informant'
         });
 
         layer.on('mouseover', function () {
