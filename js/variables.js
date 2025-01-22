@@ -12,7 +12,7 @@ var attic = L.geoJson(attic, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
+                <b>Informant: ${props.Informant}</b>
                 <br>Attic type: ${props.attic_type}<br>
             `
         layer.bindTooltip(popup, {
