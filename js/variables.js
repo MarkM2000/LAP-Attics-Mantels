@@ -286,7 +286,7 @@ var clockshelf = L.geoJson(clockshelf, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#878074',
+            fillColor: '#A1662F',
             fillOpacity: .8,
             radius: 10
         });
@@ -304,13 +304,13 @@ var clockshelf = L.geoJson(clockshelf, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#878074'
+                fillColor: '#A1662F'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#878074'
+                fillColor: '#A1662F'
             });
         });
     }
