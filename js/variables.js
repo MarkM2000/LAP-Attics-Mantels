@@ -40,7 +40,7 @@ var loft = L.geoJson(loft, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#ffa9d0',
+            fillColor: '#dfdad1',
             fillOpacity: .8,
             radius: 10
         });
@@ -58,13 +58,13 @@ var loft = L.geoJson(loft, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#dfdad1'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#dfdad1'
             });
         });
     }
