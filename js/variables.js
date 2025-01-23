@@ -315,3 +315,38 @@ var clockshelf = L.geoJson(clockshelf, {
         });
     }
 })
+
+var shelf = L.geoJson(shelf, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#FFFFFF',
+            weight: 1,
+            fillColor: '#866965',
+            fillOpacity: .8,
+            radius: 10
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+					<br>Attic type: ${props.mantel}<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#866965'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#866965'
+            });
+        });
+    }
+})
