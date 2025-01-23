@@ -5,7 +5,7 @@ var attic = L.geoJson(attic, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#ffa9d0',
+            fillColor: '#5a5247',
             fillOpacity: .8,
             radius: 10
         });
@@ -23,13 +23,13 @@ var attic = L.geoJson(attic, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#5a5247'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#5a5247'
             });
         });
     }
