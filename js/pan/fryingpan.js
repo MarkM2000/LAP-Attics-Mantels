@@ -1,4 +1,4 @@
-var frying_pxan = {
+var frying_pan = {
     "type": "FeatureCollection",
     "features": [
       {
