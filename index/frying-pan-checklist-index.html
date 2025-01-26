@@ -24,10 +24,8 @@
         <a href="https://markm2000.github.io/LAP-Attics-Mantels/index/mantel-index.html">Mantel</a>
         <a href="https://markm2000.github.io/LAP-Attics-Mantels/index/attics-checklist-index.html">Attic checkbox</a>
         <a href="https://markm2000.github.io/LAP-Attics-Mantels/index/mantels-checklist-index.html">Mantel checkbox</a>
-        <a href="https://markm2000.github.io/LAP-Attics-Mantels/index/picket-fence-checklist-index.html">Picket Fence
-            checkbox</a>
-        <a href="https://markm2000.github.io/LAP-Attics-Mantels/index/frying-pan-checklist-index.html">Frying Pan
-            checkbox</a>
+        <a href="https://markm2000.github.io/LAP-Attics-Mantels/index/picket-fence-checklist-index.html">Picket Fence checkbox</a>
+        <a href="https://markm2000.github.io/LAP-Attics-Mantels/index/frying-pan-checklist-index.html">Frying Pan checkbox</a>
     </div>
     <header>
         <h1>Frying Pan Checklist Map</h1>
@@ -35,27 +33,25 @@
     <section>
         <div id="map"></div>
         <h2>About map</h2>
-        <p>This map will contain a checklist of frying pans.</p>
+        <p></p>
+        <li><a href="https://github.com/Linguistic-Atlas-Project">Data link</a></li>
         <ul>
             <li>Authored by Mark Marji</a></li>
             <li>Date of authored map: January 22, 2025</li>
-        </ul>
-        <h3>Sources</h3>
-        <ul class="list-unstyled">
-            <li><a href="https://github.com/Linguistic-Atlas-Project">Data link</a></li>
         </ul>
     </section>
 </body>
 <!-- Add Leaflet JS -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<!-- Variables JS -->
-<script src="../js/pan-fence-variables.js"></script>
-<!-- L Control Layers Tree JS -->
-<script src="../js/L.Control.Layers.Tree.js"></script>
 <!-- Assets JS files -->
 <script src="../js/pan/fryingpan.js"></script>
 <script src="../js/pan/frypan.js"></script>
+<!-- Variables JS file -->
+<script src="../js/pan-fence-variables.js"></script>
+<!-- Add L.Control.Layers.Tree JS file -->
+<script src="../js/L.Control.Layers.Tree.js"></script>
+<!-- Variables JS file -->
 <script>
     var map = L.map('map', {
         center: [37, -86],
@@ -71,10 +67,8 @@
         label: 'Base Layers',
         children: [
             {
-                label: 'Mantels',
+                label: 'Frying pans',
                 children: [
-                    { label: 'Frying pan', layer: frying_pan },
-                    { label: 'Frypan', layer: fry_pan },
                     /* ... */
                 ]
             },
