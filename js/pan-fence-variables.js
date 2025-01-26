@@ -110,7 +110,7 @@ var iron_skillet = L.geoJson(iron_skillet, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#1a0c20',
+            fillColor: '#7A6A58',
             fillOpacity: .8,
             radius: 10
         });
@@ -128,13 +128,13 @@ var iron_skillet = L.geoJson(iron_skillet, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#1a0c20'
+                fillColor: '#7A6A58'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#1a0c20'
+                fillColor: '#7A6A58'
             });
         });
     }
