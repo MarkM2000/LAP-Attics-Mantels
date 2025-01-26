@@ -75,7 +75,7 @@ var spider = L.geoJson(spider, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#5a5247',
+            fillColor: '#1a0c20',
             fillOpacity: .8,
             radius: 10
         });
@@ -93,13 +93,13 @@ var spider = L.geoJson(spider, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#5a5247'
+                fillColor: '#1a0c20'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#5a5247'
+                fillColor: '#1a0c20'
             });
         });
     }
