@@ -13,7 +13,7 @@ var frying_pan = L.geoJson(frying_pan, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-					<b>${props.informant}</b>
+					<b>${props.Informant}</b>
 					<br>Pan type: ${props.frying_pan}<br>
 				`
         layer.bindTooltip(popup, {
