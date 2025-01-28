@@ -50,3 +50,30 @@
 <!-- Assets JS files -->
 <script src="../js/picket-fence/fence.js"></script>
 <script src="../js/pan-fence-variables.js"></script>
+<script>
+    var map = L.map('map', {
+        center: [37, -86],
+        zoom: 5.4
+    });
+
+    var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+    var baseTree = {
+        label: 'Base Layers',
+        children: [
+            {
+                label: 'Frying pans',
+                children: [
+                    { label: 'Fence', layer: fence },
+                    { label: 'Fence', layer: fence },
+                    /* ... */
+                ]
+            },
+        ]
+    };
+
+    L.control.layers.tree(baseTree).addTo(map)
+</script>
