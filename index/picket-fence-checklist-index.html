@@ -33,14 +33,11 @@
     <section>
         <div id="map"></div>
         <h2>About map</h2>
-        <p>checklist</p>
+        <p></p>
+        <li><a href="https://github.com/Linguistic-Atlas-Project">Data link</a></li>
         <ul>
             <li>Authored by Mark Marji</a></li>
             <li>Date of authored map: January 22, 2025</li>
-        </ul>
-        <h3>Sources</h3>
-        <ul class="list-unstyled">
-            <li><a href="https://github.com/Linguistic-Atlas-Project">Data link</a></li>
         </ul>
     </section>
 </body>
@@ -49,10 +46,10 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <!-- Assets JS files -->
 <script src="../js/picket-fence/fence.js"></script>
-<!-- L Control Layers Tree JS -->
-<script src=
-<!-- Variable JS -->
+<!-- Variables JS file -->
 <script src="../js/pan-fence-variables.js"></script>
+<!-- Add L.Control.Layers.Tree JS file -->
+<script src="../js/L.Control.Layers.Tree.js"></script>
 <script>
     var map = L.map('map', {
         center: [37, -86],
@@ -68,9 +65,8 @@
         label: 'Base Layers',
         children: [
             {
-                label: 'Frying pans',
+                label: 'Picket fence',
                 children: [
-                    { label: 'Fence', layer: fence },
                     { label: 'Fence', layer: fence },
                     /* ... */
                 ]
