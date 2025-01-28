@@ -216,7 +216,7 @@ var garden_fence = L.geoJson(garden_fence, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#7A6A58',
+            fillColor: '#336633',
             fillOpacity: .8,
             radius: 10
         });
@@ -234,13 +234,13 @@ var garden_fence = L.geoJson(garden_fence, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#336633'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#336633'
             });
         });
     }
