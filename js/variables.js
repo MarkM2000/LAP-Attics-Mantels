@@ -42,7 +42,7 @@ var loft = L.geoJson(loft, {
             weight: 1,
             fillColor: '#dfdad1',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -77,7 +77,7 @@ var garret = L.geoJson(garret, {
             weight: 1,
             fillColor: '#d4cbb6',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -113,7 +113,7 @@ var mantel = L.geoJson(mantel, {
             weight: 1,
             fillColor: '#ffa9d0',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -183,7 +183,7 @@ var mantelpiece = L.geoJson(mantelpiece, {
             weight: 1,
             fillColor: '#ffa9d0',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -288,7 +288,7 @@ var clockshelf = L.geoJson(clockshelf, {
             weight: 1,
             fillColor: '#A1662F',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -323,7 +323,7 @@ var shelf = L.geoJson(shelf, {
             weight: 1,
             fillColor: '#866965',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
