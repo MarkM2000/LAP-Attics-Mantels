@@ -75,7 +75,7 @@ var garret = L.geoJson(garret, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#d4cbb6',
+            fillColor: '#8696a9',
             fillOpacity: .8,
             radius: 5
         });
@@ -93,13 +93,13 @@ var garret = L.geoJson(garret, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#d4cbb6'
+                fillColor: '#8696a9'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#d4cbb6'
+                fillColor: '#8696a9'
             });
         });
     }
