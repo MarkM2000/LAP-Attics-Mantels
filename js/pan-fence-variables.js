@@ -7,7 +7,7 @@ var frying_pan = L.geoJson(frying_pan, {
             weight: 1,
             fillColor: '#5a5247',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -42,7 +42,7 @@ var fry_pan = L.geoJson(fry_pan, {
             weight: 1,
             fillColor: '#5a5247',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -77,7 +77,7 @@ var spider = L.geoJson(spider, {
             weight: 1,
             fillColor: '#1a0c20',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -112,7 +112,7 @@ var iron_skillet = L.geoJson(iron_skillet, {
             weight: 1,
             fillColor: '#7A6A58',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -147,7 +147,7 @@ var skillet = L.geoJson(skillet, {
             weight: 1,
             fillColor: '#7A6A58',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -183,7 +183,7 @@ var board_fence = L.geoJson(board_fence, {
             weight: 1,
             fillColor: '#7A6A58',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -218,7 +218,7 @@ var garden_fence = L.geoJson(garden_fence, {
             weight: 1,
             fillColor: '#336633',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -253,7 +253,7 @@ var pale_fence = L.geoJson(pale_fence, {
             weight: 1,
             fillColor: '#7A6A58',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -288,7 +288,7 @@ var paling_fence = L.geoJson(paling_fence, {
             weight: 1,
             fillColor: '#7A6A58',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
