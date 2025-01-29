@@ -7,7 +7,7 @@ var attic = L.geoJson(attic, {
             weight: 1,
             fillColor: '#5a5247',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
