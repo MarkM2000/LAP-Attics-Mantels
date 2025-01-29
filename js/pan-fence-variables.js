@@ -323,7 +323,7 @@ var palings = L.geoJson(palings, {
             weight: 1,
             fillColor: '#7A6A58',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
