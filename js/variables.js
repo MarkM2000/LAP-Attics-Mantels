@@ -4,7 +4,7 @@ var attic = L.geoJson(attic, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
-            weight: 1,
+            weight: .1,
             fillColor: '#5a5247',
             fillOpacity: .8,
             radius: 10
