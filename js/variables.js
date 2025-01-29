@@ -6,7 +6,7 @@ var attic = L.geoJson(attic, {
             color: '#FFFFFF',
             weight: .1,
             fillColor: '#5a5247',
-            fillOpacity: .8,
+            fillOpacity: .3,
             radius: 5
         });
     },
