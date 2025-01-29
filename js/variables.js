@@ -148,7 +148,7 @@ var mantelboard = L.geoJson(mantelboard, {
             weight: 1,
             fillColor: '#ffa9d0',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -218,7 +218,7 @@ var mantelshelf = L.geoJson(mantelshelf, {
             weight: 1,
             fillColor: '#ffa9d0',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
@@ -253,7 +253,7 @@ var fireboard = L.geoJson(fireboard, {
             weight: 1,
             fillColor: '#878074',
             fillOpacity: .8,
-            radius: 10
+            radius: 5
         });
     },
     onEachFeature: function (feature, layer) {
