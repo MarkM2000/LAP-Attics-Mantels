@@ -356,7 +356,7 @@ var picket_fences = L.geoJson(picket_fences, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#7A6A58',
+            fillColor: '#afa89a',
             fillOpacity: .8,
             radius: 5
         });
@@ -374,13 +374,13 @@ var picket_fences = L.geoJson(picket_fences, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#afa89a'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#afa89a'
             });
         });
     }
@@ -391,7 +391,7 @@ var picket = L.geoJson(picket, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#7A6A58',
+            fillColor: '#afa89a',
             fillOpacity: .8,
             radius: 5
         });
@@ -409,13 +409,13 @@ var picket = L.geoJson(picket, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#afa89a'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#afa89a'
             });
         });
     }
