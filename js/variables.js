@@ -111,7 +111,7 @@ var mantel = L.geoJson(mantel, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#ffa9d0',
+            fillColor: '#99A493',
             fillOpacity: .8,
             radius: 5
         });
@@ -129,13 +129,13 @@ var mantel = L.geoJson(mantel, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
     }
@@ -146,7 +146,7 @@ var mantelboard = L.geoJson(mantelboard, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#ffa9d0',
+            fillColor: '#99A493',
             fillOpacity: .8,
             radius: 5
         });
@@ -164,13 +164,13 @@ var mantelboard = L.geoJson(mantelboard, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
     }
@@ -181,7 +181,7 @@ var mantelpiece = L.geoJson(mantelpiece, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#ffa9d0',
+            fillColor: '#99A493',
             fillOpacity: .8,
             radius: 5
         });
@@ -199,13 +199,13 @@ var mantelpiece = L.geoJson(mantelpiece, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
     }
@@ -216,7 +216,7 @@ var mantelshelf = L.geoJson(mantelshelf, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#ffa9d0',
+            fillColor: '#99A493',
             fillOpacity: .8,
             radius: 5
         });
@@ -234,13 +234,13 @@ var mantelshelf = L.geoJson(mantelshelf, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#ffa9d0'
+                fillColor: '#99A493'
             });
         });
     }
