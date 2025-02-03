@@ -251,7 +251,7 @@ var slat_fence = L.geoJson(slat_fence, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#7A6A58',
+            fillColor: '#5D7079',
             fillOpacity: .8,
             radius: 5
         });
@@ -269,13 +269,13 @@ var slat_fence = L.geoJson(slat_fence, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#5D7079'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#7A6A58'
+                fillColor: '#5D7079'
             });
         });
     }
