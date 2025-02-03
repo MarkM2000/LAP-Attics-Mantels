@@ -246,7 +246,7 @@ var garden_fence = L.geoJson(garden_fence, {
     }
 })
 
-var pale_fence = L.geoJson(pale_fence, {
+var slat_fence = L.geoJson(slat_fence, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
