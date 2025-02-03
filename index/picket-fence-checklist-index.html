@@ -68,20 +68,16 @@
     }).addTo(map);
 
     var baseTree = {
+        label: 'Picket fences',
         children: [
-            {
-                label: 'Picket fence',
-                children: [
-                    { label: 'Board fence', layer: board_fence },
-                    { label: 'Garden fence', layer: garden_fence },
-                    { label: 'Slat fence', layer: slat_fence },
-                    { label: 'Paling fence', layer: paling_fence },
-                    { label: 'Palings', layer: palings },
-                    { label: 'Picket fence', layer: picket_fences },
-                    { label: 'Pickets', layer: picket },
-                    /* ... */
-                ]
-            },
+            { label: 'Board fence', layer: board_fence },
+            { label: 'Garden fence', layer: garden_fence },
+            { label: 'Slat fence', layer: slat_fence },
+            { label: 'Paling fence', layer: paling_fence },
+            { label: 'Palings', layer: palings },
+            { label: 'Picket fence', layer: picket_fences },
+            { label: 'Pickets', layer: picket },
+            /* ... */
         ]
     };
 
