@@ -5,7 +5,7 @@ var fryer = L.geoJson(fryer, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#5a5247',
+            fillColor: '#966919',
             fillOpacity: .8,
             radius: 5
         });
@@ -23,13 +23,13 @@ var fryer = L.geoJson(fryer, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#5a5247'
+                fillColor: '#966919'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#5a5247'
+                fillColor: '#966919'
             });
         });
     }
