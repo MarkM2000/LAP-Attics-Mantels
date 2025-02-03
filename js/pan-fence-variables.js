@@ -70,6 +70,41 @@ var fry_pan = L.geoJson(fry_pan, {
     }
 })
 
+var dutch_oven = L.geoJson(dutch_oven, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#FFFFFF',
+            weight: 1,
+            fillColor: '#A55B2F',
+            fillOpacity: .8,
+            radius: 5
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+					<br>Pan type: ${props.frying_pan}<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#A55B2F'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#A55B2F'
+            });
+        });
+    }
+})
+
 var spider = L.geoJson(spider, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
